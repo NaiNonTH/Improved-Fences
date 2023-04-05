@@ -1,7 +1,7 @@
 # Improved Fences
 ![improved-fences-banner](https://i.imgur.com/5BihiDW.png)
 -----
-<img src="https://cdn.modrinth.com/data/OYlcIexz/images/13252dacc12697994393e63945c3b76000b422a4.png" width="420"> <img src="https://cdn.modrinth.com/data/OYlcIexz/images/846ec76e880ef1ed3cbad8fc60bc1a1f3658b37d.png" width="420"> <img src="https://cdn.modrinth.com/data/OYlcIexz/images/5cb207a478b82ea197007d400031e7a2fb52df87.png" width="420"> <img src="https://cdn.modrinth.com/data/OYlcIexz/images/5538fea6d749ef830ae65fa62e948ed88a040464.png" width="420">
+<img src="https://cdn.modrinth.com/data/OYlcIexz/images/13252dacc12697994393e63945c3b76000b422a4.png" width="360"> <img src="https://cdn.modrinth.com/data/OYlcIexz/images/846ec76e880ef1ed3cbad8fc60bc1a1f3658b37d.png" width="360"> <img src="https://cdn.modrinth.com/data/OYlcIexz/images/5cb207a478b82ea197007d400031e7a2fb52df87.png" width="360"> <img src="https://cdn.modrinth.com/data/OYlcIexz/images/5538fea6d749ef830ae65fa62e948ed88a040464.png" width="360">
 
 [More Screenshots](https://modrinth.com/resourcepack/improved-fences/gallery)
 
